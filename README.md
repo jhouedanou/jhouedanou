@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jean Luc Houédanou
 
-🎨 **Digital Solutions Director** | 💻 **Front-End Developer** | 🎵 **Music Producer** | 🌍 **Tech Enthusiast**
+🎨 **Digital Solutions Director** | 💻 **Front-End Developer** | 🌍 **Tech Enthusiast**
 
 Welcome to my GitHub space! I'm Jean Luc Houédanou, a passionate digital solutions architect based in Abidjan, Côte d'Ivoire. With a strong foundation in front-end development and a keen eye for design, I strive to create user-centric digital experiences that bridge the gap between technology and humanity.
 
@@ -35,18 +35,6 @@ I enjoy sharing my insights and experiences through writing. Check out my blogs:
 
 - [**houedanou.com**](https://www.houedanou.com/): My primary blog where I discuss technology, design, and digital transformation.
 - [**A Unix Mind In A Windows World**](https://jeanluchouedanou.blogspot.com/): A legacy blog covering a range of topics from fintech innovations in West Africa to critiques of customer service practices in the region.
-
----
-
-## 🎵 Music Production
-
-Beyond coding and design, I have a passion for music production. Over the years, I've explored various genres and collaborated on several projects:
-
-- 🎧 **SoundCloud**: [jhouedanou](https://soundcloud.com/jhouedanou) – A collection of my tracks and collaborations.
-- 🎶 **Bandcamp**: [ednod](https://ednod.bandcamp.com/music) – Explore my musical projects and releases.
-- 🔊 **Audiomack**: [jhouedanou](https://audiomack.com/jhouedanou) – Stream my latest beats and compositions.
-
-One of my notable collaborations includes a remix of 2Pac's "Baby Don't Cry," which you can listen to here: [2Pac - Baby Don't Cry Remix (Jean-Luc Houédanou Beat)](https://soundcloud.com/micah-braxton/2pac-baby-dont-cry-remixjean-luc-houedanou-beat).
 
 ---
 
