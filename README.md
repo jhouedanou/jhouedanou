@@ -18,12 +18,6 @@ Welcome to my GitHub space! I'm Jean Luc Houédanou, a passionate digital soluti
 
 ## 🚀 Projects & Contributions
 
-Here are some of the projects I've been working on:
-
-- [**BigFiveAbidjanNuxt**](https://github.com/jhouedanou/BigFiveAbidjanNuxt): A Nuxt.js project tailored for Big Five Solutions, focusing on scalable and maintainable code structures.
-- [**Blur**](https://github.com/jhouedanou/Blur): A responsive HTML5 template integrating jQuery plugins like Codaslider and Colorbox for dynamic user interfaces.
-- [**Html5ResetxMaterializeCSS**](https://github.com/jhouedanou/Html5ResetxMaterializeCSS): A starter template combining HTML5 Reset and Materialize CSS to streamline web development workflows.
-- [**sequoiabtp**](https://github.com/jhouedanou/sequoiabtp): A modern, Gutenberg-compatible WordPress theme developed for Sequoia Holding, emphasizing responsiveness and corporate design.
 
 Feel free to explore these repositories to see my coding style and project structures.
 
