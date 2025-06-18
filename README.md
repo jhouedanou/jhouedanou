@@ -1,4 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/ivory_coast/USERNAME.svg)](https://user-badge.committers.top/ivory_coast/jhouedanou)
 
 
 # 👋 Hi, I'm Jean Luc Houédanou
