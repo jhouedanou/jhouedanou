@@ -1,3 +1,6 @@
+   [![committers.top badge](https://user-badge.committers.top/ivory_coast/USERNAME.svg)](https://user-badge.committers.top/ivory_coast/USERNAME)
+
+
 # 👋 Hi, I'm Jean Luc Houédanou
 
 🎨 **Digital Solutions Director** | 💻 **Front-End Developer** | 🌍 **Tech Enthusiast**
