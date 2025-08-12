@@ -12,7 +12,7 @@ Welcome to my GitHub space! I'm Jean Luc Houédanou, a passionate digital soluti
 
 - 🎓 **Education**: Master's in E-commerce and a Diploma in Information and Systems Management from the University of Sherbrooke, Canada.
 - 💼 **Current Role**: Digital Solutions Director at [Big Five Solutions](https://www.bigfivesolutions.com/), leading innovative projects in web development and virtual reality.
-- 🌐 **Website**: [houedanou.com](https://www.houedanou.com/)
+- 🌐 **Website**: [https://jhouedanou.github.io/Curriculum-vitae/](https://jhouedanou.github.io/Curriculum-vitae/)
 - 🐦 **Twitter**: [@afrowebdesigner](https://twitter.com/afrowebdesigner)
 - 📫 **Email**: jeanluc@houedanou.com
 
