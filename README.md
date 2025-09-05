@@ -52,7 +52,7 @@ Let's build something amazing together!
 ---
 ## Fun Facts
 - I have a passion for virtual reality and its potential to transform user experiences in web development. 
-- I used to be a beatmaker and music producer before diving into the tech world.
+- I used to be a beatmaker and music producer before diving into the tech world. You can find some of my old all over the Internet.
 - Thanks to one of my previous employer ( JOOL INTERNATIONAL - Site en construction
 JOOL INTERNATIONAL
 https://jool-international.com) I can be seen on a Netflix documentary about culture of Cocoa in Ivory Coast (Rotten, season 2, episode 5, "Bitter Chocolate" - I appear in the background,holding a red phone, at 49:50).
