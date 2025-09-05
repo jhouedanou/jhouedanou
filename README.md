@@ -50,5 +50,11 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 Let's build something amazing together!
 
 ---
+## Fun Facts
+- I have a passion for virtual reality and its potential to transform user experiences in web development. 
+- I used to be a beatmaker and music producer before diving into the tech world.
+- Thanks to one of my previous employer ( JOOL INTERNATIONAL - Site en construction
+JOOL INTERNATIONAL
+https://jool-international.com) I can be seen on a Netflix documentary about culture of Cocoa in Ivory Coast (Rotten, season 2, episode 5, "Bitter Chocolate" - I appear in the background,holding a red phone, at 49:50).
 
 *Note: This README is a reflection of my professional journey and personal interests. For more detailed information, please visit my [LinkedIn profile](https://ci.linkedin.com/in/jlhouedanou).*
