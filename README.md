@@ -29,7 +29,7 @@ Feel free to explore these repositories to see my coding style and project struc
 
 I enjoy sharing my insights and experiences through writing. Check out my blogs:
 
-- [**houedanou.com**](https://www.houedanou.com/): My primary blog where I discuss technology, design, and digital transformation.
+- [**houedanou.com**](https://houedanou.com/): My primary blog where I discuss technology, design, and digital transformation.
 - [**A Unix Mind In A Windows World**](https://jeanluchouedanou.blogspot.com/): A legacy blog covering a range of topics from fintech innovations in West Africa to critiques of customer service practices in the region.
 
 ---
